@@ -3,10 +3,6 @@ Section 1
 HW#1 1/11/17
 TA's: Johnathan Eskreis-Winkler and Ahmed Bou-Rabee
 
-1) 1.16#
-(a) Percent with a Bachelor's Degree is the Explanatory Variable and the Per capita income is the response variable.
-(b) The graph shows that the higher the percentage of college educated individuals, the higher income per capita in that county. Which proves the relationship of the two variables to be direct. There is more data distributed between the x boundaries of 10% & 30% than anywhere else on the graph. This most likely means that there are many counties with similar percentages of citizens with bachelor's degrees.
-(c) No, having a bachelor's degree does not necessarily garauntee a high salary. There reason why there are so many counties within the lower percentile portion of the graph is, that there are so many people with bachelor degrees with the same income. And the individuals who are equally educated but make more money represent the rest of the graph. Meaning that raising your income is raised situationally and not just from academic acheivements.
 
  1.20#
 (a) This is an observational study utilizing a random sample of students. Where the data collector isn't involved the actions being measured.
